@@ -8,20 +8,14 @@ Welcome to Aakash Business Tool(ABT) documentation!
 
 **Parts of the documentation:**
 
-`User guide <user/user_guide.html>`_
- start here
-
-`Developers guide <devel/devel_guide.html>`_
- reference for programmers
-
-`Installation <user/how_to_install.html>`_
- how to install
-
-`Demo <user/demo.html>`_
- have a look
-
-`Reference Book <user/reference_book.html>`_
- what is accounting and Finance
+.. toctree::
+   :numbered: 
+   
+   user/user_guide
+   devel/devel_guide
+   user/how_to_install
+   user/demo
+   user/reference_book
 
 
 Indices and tables
